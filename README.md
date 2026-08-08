@@ -6,7 +6,6 @@ The single channel module for EEG input is designed as a SMT CHiPz module for in
 
 <img src="pcb/eeg-one-channel/documents/eeg-one-channel-a-3d-ortho.png" alt="EEG One Channel. Rev.A Ortho View" height="240"/><img src="pcb/eeg-one-channel/documents/eeg-one-channel-a-3d-top.png" alt="EEG One Channel. Rev.A Top View" height="240"/><img src="pcb/eeg-one-channel/documents/eeg-one-channel-a-3d-bottom.png" alt="EEG One Channel. Rev.A Bottom View" height="240"/>
 
-eeg-one-channel-carrier-a-top
 
 <h2>Example/Test Carrier for EEG Single Channel CHiPz Module</h2>
 We made a simple carrier PCB for the single channel EEG sensor CHiPz module so that we could test it as well as its easy use in a prototyping environment.  We also made a KiCAD symbol and footprint for the module so that you can integrate the module into your own PCB designs. The CHiPz KiCAD symbol and footprint library is located in separate [GIT Hub repo](https://github.com/CircuitMonkey/kicad-library). That repo also includes many KiCAD components that we have created or tuned to be superior to the standard KiCAD components.
